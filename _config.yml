@@ -6,20 +6,20 @@ name: STAT 479 PGMs
 title: Introduction to Probabilistic Graphical Models and Modern Probabilistic AI
 email: 10708-instructor@cs.cmu.edu
 description: >
-  10-708 - Probabilistic Graphical Models - Carnegie Mellon University - Spring 2019
+  10-708 - Probabilistic Graphical Models - University of Wisconsin-Madison - Spring 2025
 footer_text: >
   Powered by <a href="http://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
 
-url:  # the base hostname & protocol for your site
-baseurl:  # the subpath of your site, e.g. /blog/
+url: lengerichlab.github.io # the base hostname & protocol for your site
+baseurl: pgm-spring-2025 # the subpath of your site, e.g. /blog/
 repository: LengerichLab/pgm-spring-2025
 
 # -----------------------------------------------------------------------------
 # Social integration
 # -----------------------------------------------------------------------------
-github_username: sailinglab
-google_analytics: UA-131744305-1
-youtube_channel: UCim-E6bNz7lUyKZwhgN6S1A
+github_username: LengerichLab
+google_analytics: 
+youtube_channel: 
 rss:  # notes rss
 
 # -----------------------------------------------------------------------------
