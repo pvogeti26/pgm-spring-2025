@@ -21,8 +21,8 @@ models (LLMs), emphasizing how PGMs underpin many state-of-the-art AI systems.
 
 ***
 
-- **Time:** Tuesday/Thursday 12:00-1:20 pm
-- **Location:** [Posner Hall 152](https://www.google.com/maps/place/Posner+Hall/@40.4424422,-79.9448675){:target="\_blank"}
+- **Time:** Tuesday/Thursday 11:00am-12:15pm
+- **Location:** [Microbial Sciences Building 1520](https://maps.app.goo.gl/sa61dWau2WBStWgt8){:target="\_blank"}
 - **Discussion:** [Piazza](https://piazza.com/class/jqh4n6275r82yq){:target="\_blank"}
 - **HW submission:** [Gradescope](https://www.gradescope.com/courses/36025){:target="\_blank"}
 - **Online lectures:** The lectures will be live-streamed through [Panopto](https://scs.hosted.panopto.com/Panopto/Pages/Sessions/List.aspx?folderID=0f44b4d7-fb4e-49eb-b88d-a9d00125e1b3){:target="\_blank"}, recorded, and made available on [YouTube](https://www.youtube.com/playlist?list=PLoZgVqqHOumTY2CAQHL45tQp6kmDnDcqn){:target="\_blank"}.
