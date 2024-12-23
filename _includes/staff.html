@@ -10,7 +10,7 @@
   </div>
   {% endfor %}
 
-  {% for instructor in site.data.staff.Head-GSI %}
+  {% for instructor in site.data.staff.TA %}
   <div class="instructor-profile-two-col">
     {% if instructor.image %}
     <a href="{{ instructor.url }}" target="_blank"><img src="{{ instructor.image | prepend: '/assets/img/' | relative_url }}" /></a>
