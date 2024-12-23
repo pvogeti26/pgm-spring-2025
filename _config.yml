@@ -1,9 +1,9 @@
 # -----------------------------------------------------------------------------
 # Site settings
 # -----------------------------------------------------------------------------
-author: SAILING lab
-name: 10-708 PGM
-title: Probabilistic Graphical Models
+author: Ben Lengerich
+name: STAT 479 PGMs
+title: Introduction to Probabilistic Graphical Models and Modern Probabilistic AI
 email: 10708-instructor@cs.cmu.edu
 description: >
   10-708 - Probabilistic Graphical Models - Carnegie Mellon University - Spring 2019
@@ -12,6 +12,7 @@ footer_text: >
 
 url:  # the base hostname & protocol for your site
 baseurl:  # the subpath of your site, e.g. /blog/
+repository: LengerichLab/pgm-spring-2025
 
 # -----------------------------------------------------------------------------
 # Social integration
