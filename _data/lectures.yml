@@ -48,5 +48,121 @@
   title: >
     <strong>Quiz</strong>
 
+- title: "Module 2: Learning"
+
+- date: 2/18
+  lecturer: Prof. Lengerich
+  title: >
+    <strong>Learning Generalized Linear Models</strong>
+
+- date: 2/20
+  lecturer: Prof. Lengerich
+  title: >
+    <strong>Parameter Learning in Fully-Observed BNs</strong>
+
+- date: 2/25
+  lecturer: Prof. Lengerich
+  title: >
+    <strong>Learning Undirected GMs</strong>
+
+- date: 2/27
+  lecturer: Prof. Lengerich
+  title: >
+    <strong>Structure Learning</strong>
+
+- date: 3/4
+  lecturer: Prof. Lengerich
+  title: >
+    <strong>Causal Discovery</strong>
+
+- date: 3/6
+  lecturer: Prof. Lengerich
+  title: >
+    <strong>Parameter Learning of partially observed BNs</strong>
+  
+- date: 3/11
+  lecturer: Prof. Lengerich
+  title: >
+    <strong>Sequential Models</strong>
 
   
+- date: 3/13
+  lecturer: Prof. Lengerich
+  title: >
+    <strong>Variational Inference, Monte Carlo</strong>
+
+- date: 3/18
+  lecturer: Prof. Lengerich
+  title: >
+    <strong>Review</strong>
+
+- date: 3/20
+  lecturer: Prof. Lengerich
+  title: >
+    <strong>Exam</strong>
+
+- date: 3/25
+  lecturer: Prof. Lengerich
+  title: >
+    <strong>Spring recess</strong>
+
+- date: 3/27
+  lecturer: Prof. Lengerich
+  title: >
+    <strong>Spring recess</strong>
+
+
+- date: 4/1
+  lecturer: Prof. Lengerich
+  title: >
+    <strong>Deep Learning from a GM Perspective</strong>
+
+- date: 4/3
+  lecturer: Prof. Lengerich
+  title: >
+    <strong>CNNs, RNNs, Autoencoders</strong>
+
+- date: 4/8
+  lecturer: 
+  title: >
+    <strong>Deep Generative Models: GAN, VAEs</strong>
+
+- date: 4/10
+  lecturer: Prof. Lengerich
+  title: >
+    <strong>Attention and Transformers</strong>
+
+- date: 4/15
+  lecturer: Prof. Lengerich
+  title: >
+    <strong>LLMs from a Probabilistic Perspective 1: Implementing a GPT from Scratch</strong>
+
+
+- date: 4/17
+  lecturer: Prof. Lengerich
+  title: >
+    <strong>LLMs from a Probabilistic Perspective 2: Training on Unlabeled Data</strong>
+
+
+
+- date: 4/22
+  lecturer: Prof. Lengerich
+  title: >
+    <strong>LLMs from a Probabilistic Perspective 3: Fine-tuning on Labeled Data</strong>
+
+    
+- date: 4/24
+  lecturer: Prof. Lengerich
+  title: >
+    <strong>Context-Adaptive Graphical Models</strong>
+
+
+- date: 4/29
+  lecturer: 
+  title: >
+    <strong>Project Presentations</strong>
+
+- date: 5/1
+  lecturer: 
+  title: >
+    <strong>Project Presentations</strong>
