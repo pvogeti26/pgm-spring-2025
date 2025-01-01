@@ -18,6 +18,13 @@ title: Logistics
 
 ***
 
+### Course Materials
+
+- **Website:** [Course Website](https://lengerichlab.github.io/pgm-spring-2025)  
+- **Submission Platform:** Canvas  
+
+***
+
 ### Readings
 
 The required readings for this class include:  
@@ -29,7 +36,7 @@ The required readings for this class include:
 
 ***
 
-### Grading
+## Grading
 
 The class requirements and grading breakdown are as follows:
 
@@ -40,7 +47,6 @@ The class requirements and grading breakdown are as follows:
 
 **Extra Credit:** Students can earn up to 3% extra credit for writing high-quality lecture notes.
 
-***
 
 ### Homework Assignments
 
@@ -74,11 +80,6 @@ Projects may explore probabilistic graphical models applied to real-world proble
 
 ### Extra Credit
 
-Students can volunteer to write lecture notes for a class session. Notes must be clear, comprehensive, and well-organized. Approved notes will earn up to 3% extra credit added to the final grade.
+Students can volunteer to write lecture notes for a class session. Notes must be clear, comprehensive, and well-organized. Approved notes will earn up to 3% extra credit added to the final grade. See [here](https://github.com/LengerichLab/pgm-spring-2025/blob/master/_posts/README.md) for details on how to submit.
 
 ***
-
-### Course Materials
-
-- **Website:** [Course Website](https://lengerichlab.github.io/pgm-spring-2025)  
-- **Submission Platform:** Canvas  
