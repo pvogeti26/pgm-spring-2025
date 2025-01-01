@@ -1,9 +1,9 @@
 Lecture Notes Scribe Guidelines
 -------------------------------
 
-Scribing lectures is one of the course [requirements](https://sailinglab.github.io/pgm-spring-2019/description/#grading) for 10708 PGM class.
-In spring 2019, students taking the class are asked to write up their notes in the form of blog posts using the [Distill.pub](https://distill.pub/) format (v2).
-We provide a template ([source](https://github.com/sailinglab/pgm-spring-2019/blob/master/_posts/2019-01-09-lecture-notes-template.md), [rendered](https://sailinglab.github.io/pgm-spring-2019/notes/lecture-notes-template/)) for the notes.
+Scribing lectures is an opportunity for [bonus points](https://lengerichlab.github.io/pgm-spring-2025/logistics/#grading) for 479 PGM class.
+In spring 2025, students taking the class are asked to write up their notes in the form of blog posts using the [Distill.pub](https://distill.pub/) format (v2).
+We provide a template ([source](https://github.com/lengerichlab/pgm-spring-2025/blob/master/_posts/2019-01-09-lecture-notes-template.md), [rendered](https://lengerichlab.github.io/pgm-spring-2025/notes/lecture-notes-template/)) for the notes.
 The template showcases the main building blocks that students may use when writing up their notes (e.g., equations, different formats of images, etc.).
 
 ## Preparation
@@ -13,7 +13,7 @@ To prepare the scribe notes, you'll need a few steps.
 ### Preliminary steps
 - [Fork](https://help.github.com/articles/fork-a-repo/) the course repository.
 - In the settings of your fork, set GitHub Pages source to the `master` branch.
-- Make sure GitHub Pages correctly renders the webpage at `<your-github-username>.github.io/pgm-spring-2019/`.
+- Make sure GitHub Pages correctly renders the webpage at `<your-github-username>.github.io/pgm-spring-2025/`.
 
 If you are not familiar with GitHub, take a look the [intro tutorial](https://guides.github.com/activities/hello-world/) and the [GitHub Pages tutorial](https://guides.github.com/features/pages/).
 
@@ -29,7 +29,7 @@ $ bundle exec jekyll serve
 After that, you will be able to see a rendered version of the course webpage (with all your changes to the notes) by going to [http://localhost:4000](http://localhost:4000/).
 
 ### Write up lecture notes
-- Using the template, write up and add your notes to `_posts/yyyy-mm-dd-lecture-xx.md` and bibliography to `assets/bibliography/yyyy-mm-dd-lecture-xx.bib` (in the BibTeX format; here is [an example](https://github.com/sailinglab/pgm-spring-2019/blob/master/assets/bibliography/2019-01-09-lecture-notes-template.bib)) in your fork of the repository.
+- Using the template, write up and add your notes to `_posts/yyyy-mm-dd-lecture-xx.md` and bibliography to `assets/bibliography/yyyy-mm-dd-lecture-xx.bib` (in the BibTeX format; here is [an example](https://github.com/lengerichlab/pgm-spring-2025/blob/master/assets/bibliography/2019-01-09-lecture-notes-template.bib)) in your fork of the repository.
 - When writing notes, you can use a combination of Markdown and HTML (the latter for more fine-grained rendering, if necessary).
   If you are not familiar with markdown, please spend 5 min looking at this [tutorial](https://commonmark.org/help/tutorial/index.html).
 - Add the images used in your post to `assets/img/notes/lecture-xx/`.
@@ -51,7 +51,7 @@ To submit the notes for review, please do the following:
 
 ## FAQ
 
-1. **Q:** When I go to `<your-github-username>.github.io/pgm-spring-2019/`, I get 404 error. What should I do?
+1. **Q:** When I go to `<your-github-username>.github.io/pgm-spring-2025/`, I get 404 error. What should I do?
 
    **A:** Please make sure you followed the preliminary steps and GitHub Pages source points to the `master` branch.
 Note that it takes a few minutes for the website to start rendering.
