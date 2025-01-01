@@ -25,6 +25,6 @@ models (LLMs), emphasizing how PGMs underpin many state-of-the-art AI systems.
 - **Location:** [Microbial Sciences Building 1520](https://maps.app.goo.gl/sa61dWau2WBStWgt8){:target="\_blank"}
 - **Discussion:** [Canvas](https://canvas.wisc.edu/courses/447453){:target="\_blank"}
 - **HW submission:** [Canvas]([https://www.gradescope.com/courses/36025](https://canvas.wisc.edu/courses/447453)){:target="\_blank"}
-- **Contact:** Students should ask all course-related questions on [Canvas](https://canvas.wisc.edu/courses/447453){:target="\_blank"}, where you will also find announcements.
+- **Contact:** Students should ask all course-related questions on [Canvas](https://canvas.wisc.edu/courses/447453){:target="\_blank"}, where you will also find announcements. Individual enquires can be directed to TA/instructor emails.
 
 ***
