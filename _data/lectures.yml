@@ -5,9 +5,6 @@
   title: >
     <strong>Course Introduction, Introduction to PGMs</strong>
   slides: ""
-  annotated: ""
-  video: ""
-  notes: ""
   readings:
     - E. Airoldi, <a href="https://dash.harvard.edu/bitstream/handle/1/2757496/Airoldi_GettingStarted.pdf" target="_blank">Getting Started in Probabilistic Graphical Models</a>
   logistics:
