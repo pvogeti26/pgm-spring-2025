@@ -19,7 +19,9 @@
   lecturer: Prof. Lengerich
   title: >
     <strong>A Linear view of Discriminative and Generative Models</strong>
-
+  readings:
+    - MI. Jordan, <a href="https://lengerichlab.github.io/pgm-spring-2025/assets/readings/03_jordan_chapter07.pdf" target="_blank">Chapter 7</a>
+    
 - date: 1/30
   lecturer: Prof. Lengerich
   title: >
