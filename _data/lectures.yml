@@ -21,11 +21,15 @@
     <strong>A Linear view of Discriminative and Generative Models</strong>
   readings:
     - MI. Jordan, <a href="https://lengerichlab.github.io/pgm-spring-2025/assets/readings/03_jordan_chapter07.pdf" target="_blank">Chapter 7</a>
+    - A. Ng, <a href="https://lengerichlab.github.io/pgm-spring-2025/assets/readings/03_ng_generative_discriminative.pdf" target="_blank">On Discriminative vs. Generative Classifiers</a>
     
 - date: 1/30
   lecturer: Prof. Lengerich
   title: >
     <strong>Conditional Independence and Directed GMs (BNs)</strong>
+  readings: 
+    - MI. Jordan, <a href="https://lengerichlab.github.io/pgm-spring-2025/assets/readings/04_jordan_chapter02.pdf" target="_blank">Chapter 2.1</a>
+    - Koller & Friedman, <a href="https://lengerichlab.github.io/pgm-spring-2025/assets/readings/04_koller_chapter03.pdf" target="_blank">Chapter 3</a>
 
 - date: 2/4
   lecturer: Prof. Lengerich
