@@ -5,8 +5,8 @@ description: An example of a distill-style lecture notes that showcases the main
 date: 2019-01-09
 
 lecturers:
-  - name: Eric Xing
-    url: "https://www.cs.cmu.edu/~epxing/"
+  - name: Ben Lengerich
+    url: "https://lengerichlab.github.io/"
 
 authors:
   - name: Author 1  # author's full name
