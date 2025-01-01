@@ -21,27 +21,39 @@
     <strong>A Linear view of Discriminative and Generative Models</strong>
   readings:
     - MI. Jordan, <a href="https://lengerichlab.github.io/pgm-spring-2025/assets/readings/03_jordan_chapter07.pdf" target="_blank">Chapter 7</a>
+    - A. Ng, <a href="https://lengerichlab.github.io/pgm-spring-2025/assets/readings/03_ng_generative_discriminative.pdf" target="_blank">On Discriminative vs. Generative Classifiers</a>
     
 - date: 1/30
   lecturer: Prof. Lengerich
   title: >
     <strong>Conditional Independence and Directed GMs (BNs)</strong>
+  readings: 
+    - MI. Jordan, <a href="https://lengerichlab.github.io/pgm-spring-2025/assets/readings/04_jordan_chapter02_1.pdf" target="_blank">Chapter 2.1</a>
+    - Koller & Friedman, <a href="https://lengerichlab.github.io/pgm-spring-2025/assets/readings/04_koller_chapter03.pdf" target="_blank">Chapter 3</a>
 
 - date: 2/4
   lecturer: Prof. Lengerich
   title: >
     <strong>Undirected GMs (MRFs)</strong>
+  readings:
+    - MI. Jordan, <a href="https://lengerichlab.github.io/pgm-spring-2025/assets/readings/05_jordan_chapter02_2.pdf" target="_blank">Chapter 2.2</a>
+    - Koller & Friedman, <a href="https://lengerichlab.github.io/pgm-spring-2025/assets/readings/05_koller_chapter04.pdf" target="_blank">Chapter 4</a>
 
 - date: 2/6
   lecturer: Prof. Lengerich
   title: >
     <strong>Exact Inference 1 - Variable Elimination</strong>
-
+  readings:
+    - MI. Jordan, <a href="https://lengerichlab.github.io/pgm-spring-2025/assets/readings/06_jordan_chapter03.pdf" target="_blank">Chapter 2.2</a>
+    - Koller & Friedman, <a href="https://lengerichlab.github.io/pgm-spring-2025/assets/readings/06_koller_chapter09.pdf" target="_blank">Chapter 9</a>
 
 - date: 2/11
   lecturer: Prof. Lengerich
   title: >
     <strong>Exact inference 2 - Clique trees, Message passing, Sum product algorithm</strong>
+  readings:
+    - MI. Jordan, <a href="https://lengerichlab.github.io/pgm-spring-2025/assets/readings/07_jordan_chapter04.pdf" target="_blank">Chapter 4</a>
+    - Koller & Friedman, <a href="https://lengerichlab.github.io/pgm-spring-2025/assets/readings/07_koller_chapter10.pdf" target="_blank">Chapter 10</a>
 
 - date: 2/13
   title: >
