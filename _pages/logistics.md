@@ -32,7 +32,7 @@ The required readings for this class include:
 - Excerpts from **An Introduction to Probabilistic Graphical Models** by Michael I. Jordan.  
 - Additional research papers and lecture notes.  
 
-**All required readings will be provided as PDFs.**
+**Please attend the first day of class for a special announcement about the readings.**
 
 ***
 
