@@ -62,7 +62,7 @@ There will be regular homework assignments to reinforce core concepts and comput
 ### Quiz and Midterm Exam
 
 - **Quiz:** A single in-class quiz during Week 4 (February 13, 2025) will cover topics such as conditional independence, Bayesian networks, and Markov networks.  
-- **Midterm Exam:** The in-class, closed-book midterm exam during Week 9 (March 18, 2025) will cover foundational topics like Bayesian networks, Markov networks, exact inference algorithms, and basic parameter learning methods.
+- **Midterm Exam:** The in-class, closed-book midterm exam during Week 9 (March 20, 2025) will cover foundational topics like Bayesian networks, Markov networks, exact inference algorithms, and basic parameter learning methods.
 
 ***
 
@@ -71,7 +71,7 @@ There will be regular homework assignments to reinforce core concepts and comput
 The final project will be completed in groups of up to three students. It will include:  
 - **Proposal (5%)**: Due March 27, 2025.  
 - **Midway Report (5%)**: Due April 3, 2025.  
-- **Presentation (10%)**: During the final week of class.  
+- **Presentation (5%)**: During the final week of class.  
 - **Final Report (15%)**: Due May 3, 2025.  
 
 Projects may explore probabilistic graphical models applied to real-world problems or modern probabilistic AI topics.
