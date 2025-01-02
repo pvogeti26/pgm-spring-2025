@@ -56,8 +56,7 @@
     - Koller & Friedman, Chapter 10
 
 - date: 2/13
-  title: >
-    <strong>Quiz</strong>
+  title: Quiz
 
 - title: "Module 2: Learning"
 
@@ -108,19 +107,13 @@
     <strong>Review</strong>
 
 - date: 3/20
-  lecturer: None
-  title: >
-    <strong>Exam</strong>
+  title: Exam
 
 - date: 3/25
-  lecturer: None
-  title: >
-    <strong>Spring recess</strong>
+  title: Spring recess
 
 - date: 3/27
-  lecturer: None
-  title: >
-    <strong>Spring recess</strong>
+  title: Spring recess
 
 - title: "Module 3: Modern Probabilistic AI"
 
@@ -170,9 +163,7 @@
 
 
 - date: 4/29
-  title: >
-    <strong>Project Presentations</strong>
+  title: Project Presentations
 
 - date: 5/1
-  title: >
-    <strong>Project Presentations</strong>
+  title: Project Presentations
