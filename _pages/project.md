@@ -42,7 +42,7 @@ Teams of 2-4 students are strongly encouraged. Once your team is formed, email t
 ---
 
 ### **Midway Report**
-**Due:** Friday, April 4, 2025, at 11:59 PM via Canvas.
+**Due:** Friday, April 11, 2025, at 11:59 PM via Canvas.
 
 - **Content**:  
   - Conference-style format (5 pages).  
@@ -58,7 +58,7 @@ Teams of 2-4 students are strongly encouraged. Once your team is formed, email t
 ---
 
 ### **Final Report**
-**Due:** Saturday, May 3, 2025, at 11:59 PM via Canvas.
+**Due:** Monday, May 5, 2025, at 11:59 PM via Canvas.
 
 - **Content**:  
   - ICML-style paper (8 pages).  
@@ -76,7 +76,7 @@ Teams of 2-4 students are strongly encouraged. Once your team is formed, email t
 ### **In-Class Presentation**
 **Date:** Tuesday and Thursday, April 29 and May 1, 2025.  
 
-- **Format**: Each team will deliver a **10-minute presentation** in class, summarizing their project. Presentations will include a brief introduction, methods overview, key findings, and future directions.  
+- **Format**: Each team will deliver a **8-minute presentation** in class, summarizing their project. Presentations will include a brief introduction, methods overview, key findings, and future directions.  
 
 - **Grading**:  
   - 30%: Clarity and engagement of presentation.  
