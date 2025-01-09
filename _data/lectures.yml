@@ -6,7 +6,7 @@
     <strong>Course Introduction, Introduction to PGMs</strong>
   slides: ""
   readings:
-    - E. Airoldi, Getting Started in Probabilistic Graphical Models
+    - E. Airoldi, <a href="https://lengerichlab.github.io/pgm-spring-2025/assets/readings/01_Airoldi_GettingStarted.pdf" target="_blank>Getting Started in Probabilistic Graphical Models</a>
   logistics:
 
 - date: 1/23
