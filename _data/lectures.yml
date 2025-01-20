@@ -4,7 +4,7 @@
   lecturer: Prof. Lengerich
   title: >
     <strong>Course Introduction, Introduction to PGMs</strong>
-  slides: ""
+  slides: "assets/lectures/01_Intro_to_PGMs.pdf"
   readings:
     - E. Airoldi, <a href="https://lengerichlab.github.io/pgm-spring-2025/assets/readings/01_Airoldi_GettingStarted.pdf" target="_blank">Getting Started in Probabilistic Graphical Models</a>
   logistics:
