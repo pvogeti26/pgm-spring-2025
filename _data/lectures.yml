@@ -13,6 +13,7 @@
   lecturer: Prof. Lengerich
   title: >
     <strong>Statistical Review & Maximum LIkelihood Estimation</strong>
+slides: "../assets/lectures/Lecture_02_Stats_Review.pdf"
   logistics: HW1 Out
 
 - date: 1/28
@@ -27,7 +28,7 @@
   lecturer: Prof. Lengerich
   title: >
     <strong>Conditional Independence and Directed GMs (BNs)</strong>
-  readings: 
+  readings:
     - MI. Jordan, Chapter 2.1
     - Koller & Friedman, Chapter 3
 
@@ -130,7 +131,7 @@
     <strong>CNNs, RNNs, Autoencoders</strong>
 
 - date: 4/8
-  lecturer: 
+  lecturer:
   title: >
     <strong>Deep Generative Models: GAN, VAEs</strong>
 
