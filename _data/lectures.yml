@@ -13,7 +13,7 @@
   lecturer: Prof. Lengerich
   title: >
     <strong>Statistical Review & Maximum LIkelihood Estimation</strong>
-slides: "../assets/lectures/Lecture_02_Stats_Review.pdf"
+  slides: "../assets/lectures/Lecture_02_Stats_Review.pdf"
   logistics: HW1 Out
 
 - date: 1/28
