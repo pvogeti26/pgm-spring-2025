@@ -56,7 +56,7 @@ collections:
   announcements:
     defaults:
       layout: post
-    output: true
+    output: false
     permalink: /announcements/:path/
 
 announcements_limit: 5
