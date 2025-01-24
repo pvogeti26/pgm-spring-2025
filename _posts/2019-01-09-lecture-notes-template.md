@@ -9,8 +9,12 @@ lecturers:
     url: "https://lengerichlab.github.io/"
 
 authors:
-  - name: Michael Zhang
-  - name: Scott Sheng
+  - name: Author 1  # author's full name
+    url: "#"  # optional URL to the author's homepage
+  - name: Author 2
+    url: "#"
+  - name: Author 3
+    url: "#"
 
 editors:
   - name: Editor 1  # editor's full name
@@ -312,4 +316,3 @@ Full $$\LaTeX$$ blocks are supported through [LaTeX JS](https://latex.js.org/){:
 ## Print
 
 Finally, you can easily get a PDF or printed version of the notes by simply hitting `ctrl+P` (or `⌘+P` on macOS).
-
