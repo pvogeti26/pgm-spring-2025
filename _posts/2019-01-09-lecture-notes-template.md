@@ -9,12 +9,8 @@ lecturers:
     url: "https://lengerichlab.github.io/"
 
 authors:
-  - name: Author 1  # author's full name
-    url: "#"  # optional URL to the author's homepage
-  - name: Author 2
-    url: "#"
-  - name: Author 3
-    url: "#"
+  - name: Michael Zhang
+  - name: Scott Sheng
 
 editors:
   - name: Editor 1  # editor's full name
