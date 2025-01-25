@@ -34,7 +34,7 @@
 
 \question[10 points]\textbf{Conditional Probabilities}\droppoints
 
-Suppose we roll two dice. Let \( A \) be the event ``the sum is greater than 7," and \( B \) be the event ``the first die shows a 4." Select the correct answers for the following probabilities:
+Suppose we roll two standard six-sided dice. Let \( A \) be the event ``the sum is greater than 7," and \( B \) be the event ``the first die shows a 4." Select the correct answers for the following probabilities:
 \begin{enumerate}[label=(\alph*)]
     \item \( P(A) \):
     \begin{choices}
@@ -55,7 +55,7 @@ Suppose we roll two dice. Let \( A \) be the event ``the sum is greater than 7,"
         \choice \( \frac{1}{3} \)
         \choice \( \frac{5}{12} \)
         \choice \( \frac{2}{3} \)
-        \choice \( \frac{3}{4} \)
+        \choice \( \frac{1}{2} \)
     \end{choices}
     \item Are \( A \) and \( B \) independent?
     \begin{choices}
@@ -159,14 +159,13 @@ f(x) =
 
 
 \question[10 points]\textbf{Joint and Marginal Probabilities}\droppoints
-%\textbf{4. Joint and Marginal Probabilities}
 
 Two random variables \( X \) and \( Y \) have the following joint probability mass function (PMF):
 
 \[
 P(X = x, Y = y) =
 \begin{cases}
-\frac{x + y}{10}, & x, y \in \{1, 2\}, \\
+\frac{x + y}{12}, & x, y \in \{1, 2\}, \\
 0, & \text{otherwise.}
 \end{cases}
 \]
@@ -182,18 +181,18 @@ P(X = x, Y = y) =
 
     \item Compute the marginal probability \( P(X = 1) \). 
     \begin{choices}
-        \choice \( 0.30 \)
+        \choice \( 0.32 \)
         \choice \( 0.35 \)
-        \choice \( 0.40 \)
+        \choice \( 0.42 \)
         \choice \( 0.45 \)
     \end{choices}
 
     \item Compute the conditional probability \( P(Y = 2 \mid X = 2) \).
     \begin{choices}
-        \choice \( 0.40 \)
+        \choice \( 0.45 \)
         \choice \( 0.50 \)
-        \choice \( 0.60 \)
-        \choice \( 0.70 \)
+        \choice \( 0.57 \)
+        \choice \( 0.65 \)
     \end{choices}
 \end{enumerate}
 
@@ -241,43 +240,6 @@ Suppose you are flipping a coin that might be biased (i.e., the probability of h
     \end{parts}
 \end{solution}
 
-
-\section*{Part 2: Estimation}
-
-\question[10 points]\textbf{MLE and MAP for a Possibly Biased Coin}\droppoints
-
-Suppose you are flipping a coin that might be biased (i.e., the probability of heads \( \theta \) is unknown and not necessarily \( 0.5 \)). You flip the coin \( n \) times and observe \( k \) heads.
-
-\begin{enumerate}[label=(\alph*)]
-    \item Using the Bernoulli likelihood function, what is the Maximum Likelihood Estimate (MLE) for \( \theta \)?
-    \begin{choices}
-        \choice \( \frac{n}{k} \)
-        \choice \( \frac{k}{n} \)
-        \choice \( k \cdot n \)
-        \choice \( 1 - \frac{k}{n} \)
-    \end{choices}
-    \item Suppose you have prior knowledge that the coin is likely close to fair, modeled using a Beta prior \( \theta \sim \text{Beta}(\alpha, \beta) \). The posterior distribution is:
-    \[
-    \text{Posterior}(\theta | \text{data}) \propto \theta^{k + \alpha - 1} (1 - \theta)^{n - k + \beta - 1}.
-    \]
-
-    What is the MAP estimate for \( \theta \)?
-    \begin{choices}
-        \choice \( \frac{k}{n} \)
-        \choice \( \frac{k + \alpha - 1}{n + \alpha + \beta - 2} \)
-        \choice \( \frac{k}{n + \alpha + \beta} \)
-        \choice \( \frac{k + \alpha}{n + \beta} \)
-    \end{choices}
-\end{enumerate}
-
-\begin{solution}
-    \begin{parts}
-        \part 
-        \part 
-        \part 
-        \part 
-    \end{parts}
-\end{solution}
 
 
 \question[10 points]\textbf{Poisson Distribution}\droppoints
