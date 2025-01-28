@@ -20,6 +20,7 @@
   lecturer: Prof. Lengerich
   title: >
     <strong>A Linear view of Discriminative and Generative Models</strong>
+  slides: "../assets/lectures/Lecture_03_TeX_Discriminative_Generative.pdf"
   readings:
     - MI. Jordan, Chapter 7
     - A. Ng, <a href="https://lengerichlab.github.io/pgm-spring-2025/assets/readings/03_ng_generative_discriminative.pdf" target="_blank">On Discriminative vs. Generative Classifiers</a>
