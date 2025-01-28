@@ -21,7 +21,7 @@ editors:
     url: "#"  # optional URL to the editor's homepage
 
 abstract: >
-  An example abstract block.
+  An example abstract block
 ---
 
 ## Equations
