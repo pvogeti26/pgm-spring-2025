@@ -15,7 +15,7 @@
   title: >
     <strong>Statistical Review & Maximum LIkelihood Estimation</strong>
   slides: "../assets/lectures/Lecture_02_Stats_Review.pdf"
-  notes: "https://lengerichlab.github.io/pgm-spring-2025/notes/lecture-02/"
+  notes: "../notes/lecture-02/"
   logistics: HW1 Out
 
 - date: 1/28
