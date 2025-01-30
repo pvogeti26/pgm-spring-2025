@@ -30,9 +30,11 @@
   lecturer: Prof. Lengerich
   title: >
     <strong>Conditional Independence and Directed GMs (BNs)</strong>
+  slides: "../assets/lectures/Lecture_04_BNs.pdf"
   readings:
     - MI. Jordan, Chapter 2.1
     - Koller & Friedman, Chapter 3
+  logistics: HW2 Out
 
 - date: 2/4
   lecturer: Prof. Lengerich
