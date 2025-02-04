@@ -50,6 +50,7 @@
   lecturer: Prof. Lengerich
   title: >
     <strong>Exact Inference 1 - Variable Elimination</strong>
+  slides: 
   readings:
     - MI. Jordan, Chapter 2.2
     - Koller & Friedman, Chapter 9
@@ -68,6 +69,7 @@
   lecturer: Prof. Lengerich
   title: >
     <strong>Project Ideas + Learning Generalized Linear Models</strong>
+  readings:
 
 - date: 2/20
   lecturer: Prof. Lengerich
