@@ -41,6 +41,7 @@
   lecturer: Prof. Lengerich
   title: >
     <strong>Undirected GMs (MRFs)</strong>
+  slides: "../assets/lectures/Lecture_05_UGMs.pdf"
   readings:
     - MI. Jordan, Chapter 2.2
     - Koller & Friedman, Chapter 4
