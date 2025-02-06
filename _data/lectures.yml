@@ -51,7 +51,7 @@
   lecturer: Prof. Lengerich
   title: >
     <strong>Exact Inference 1 - Variable Elimination</strong>
-  slides: 
+  slides: "../assets/lectures/Lecture_06_Exact_Inference.pdf"
   readings:
     - MI. Jordan, Chapter 2.2
     - Koller & Friedman, Chapter 9
