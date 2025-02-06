@@ -33,6 +33,7 @@
   title: >
     <strong>Conditional Independence and Directed GMs (BNs)</strong>
   slides: "../assets/lectures/Lecture_04_BNs.pdf"
+  notes: "../notes/lecture-03/"
   readings:
     - MI. Jordan, Chapter 2.1
     - Koller & Friedman, Chapter 3
