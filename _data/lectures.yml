@@ -71,12 +71,16 @@
   lecturer: Prof. Lengerich
   title: >
     <strong>Project Ideas + Learning Generalized Linear Models</strong>
+  slides: "../assets/lectures/Lecture_07_GLMs.pdf"
   readings:
+    - MI. Jordan, Chapter 8, 9.1, 9.2
 
 - date: 2/20
   lecturer: Prof. Lengerich
   title: >
     <strong>Parameter Learning in Fully-Observed BNs</strong>
+  readings:
+    - Koller & Friedman, Chapter 17.1-17.4
 
 - date: 2/25
   lecturer: Prof. Lengerich
@@ -97,17 +101,23 @@
   lecturer: Prof. Lengerich
   title: >
     <strong>Parameter Learning of partially observed BNs</strong>
+  readings:
+    - MI. Jordan, Chapter 11
+    - Koller & Friedman, Chapter 19.1-19.4
   
 - date: 3/11
   lecturer: Prof. Lengerich
   title: >
     <strong>Sequential Models</strong>
-
+  readings:
+    - MI. Jordan, Chapter 15
   
 - date: 3/13
   lecturer: Prof. Lengerich
   title: >
     <strong>Variational Inference, Monte Carlo</strong>
+  readings:
+    - MacKay, Chapter 29
 
 - date: 3/18
   lecturer: Prof. Lengerich
