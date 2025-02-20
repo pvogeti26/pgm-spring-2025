@@ -79,6 +79,7 @@
   lecturer: Prof. Lengerich
   title: >
     <strong>Parameter Learning in Fully-Observed BNs</strong>
+  slides: "../assets/lectures/Lecture_08_LearningBNs.pdf"
   readings:
     - Koller & Friedman, Chapter 17.1-17.4
 
