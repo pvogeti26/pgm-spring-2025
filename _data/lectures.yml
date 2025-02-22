@@ -82,6 +82,7 @@
   slides: "../assets/lectures/Lecture_08_LearningBNs.pdf"
   readings:
     - Koller & Friedman, Chapter 17.1-17.4
+  logistics: HW2 Out
 
 - date: 2/25
   lecturer: Prof. Lengerich
