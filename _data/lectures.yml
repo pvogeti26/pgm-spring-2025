@@ -27,7 +27,7 @@
   readings:
     - MI. Jordan, Chapter 7
     - A. Ng, <a href="https://lengerichlab.github.io/pgm-spring-2025/assets/readings/03_ng_generative_discriminative.pdf" target="_blank">On Discriminative vs. Generative Classifiers</a>
-    - J. Xue, <a href="https://lengerichlab.github.io/pgm-spring-2025/assets/readings/03_Xue_CommentOn.pdf" target="_blank">Comment on 'On Discriminative vs. Generative Classifiers: A Comparison of Logistic Regression and Naive Bayes'</a>
+    - J. Xue, <a href="https://lengerichlab.github.io/pgm-spring-2025/assets/readings/03_Xue_CommentOn.pdf" target="_blank">Comment on On Discriminative vs. Generative Classifiers</a>
 
 - date: 1/30
   lecturer: Prof. Lengerich
@@ -90,7 +90,7 @@
   title: >
     <strong>Learning Undirected GMs</strong>
   readings:
-    - Z. Ghahramani, <a href="https://lengerichlab.github.io/pgm-spring-2025/assets/readings/09_Gharamani_Learning.pdf" target="_blank">Graphical models: parameter learning</a>
+    - Z. Ghahramani, <a href="https://lengerichlab.github.io/pgm-spring-2025/assets/readings/09_Gharamani_Learning.pdf" target="_blank">Graphical models\: parameter learning</a>
 
 - date: 2/27
   lecturer: Prof. Lengerich
@@ -98,14 +98,14 @@
     <strong>Structure Learning</strong>
   readings:
     - S. Ermon, <a href="https://ermongroup.github.io/cs228-notes/learning/structure/" target="_blank">Structure learning for Bayesian networks</a>
-    - M. Scutari, <a href="https://lengerichlab.github.io/pgm-spring-2025/assets/readings/10_Scutari_WhoLearnsBetter.pdf" target="_blank">Who Learns Better Bayesian Network Structures: Accuracy and Speed of Structure Learning Algorithms</a>
+    - M. Scutari, <a href="https://lengerichlab.github.io/pgm-spring-2025/assets/readings/10_Scutari_WhoLearnsBetter.pdf" target="_blank">Who Learns Better Bayesian Network Structures</a>
 
 - date: 3/4
   lecturer: Prof. Lengerich
   title: >
     <strong>Causal Discovery</strong>
   readings:
-    - K. Zhang, <a href='https://lengerichlab.github.io/pgm-spring-2025/assets/readings/11_Zhang_Learning.pdf'>Learning causality and causality-related learning: some recent progress</a>
+    - K. Zhang, <a href='https://lengerichlab.github.io/pgm-spring-2025/assets/readings/11_Zhang_Learning.pdf'>Learning causality and causality-related learning\: some recent progress</a>
 
 - date: 3/6
   lecturer: Prof. Lengerich
