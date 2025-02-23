@@ -87,4 +87,4 @@ Teams of 2-4 students are strongly encouraged. Once your team is formed, email t
 
 ## Suggested Project Topics
 
-TBA
+See slides from Lecture 7 for project ideas.
