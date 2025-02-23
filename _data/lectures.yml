@@ -27,7 +27,7 @@
   readings:
     - MI. Jordan, Chapter 7
     - A. Ng, <a href="https://lengerichlab.github.io/pgm-spring-2025/assets/readings/03_ng_generative_discriminative.pdf" target="_blank">On Discriminative vs. Generative Classifiers</a>
-    - J. Xue, <a href="https://lengerichlab.github.io/pgm-spring-2025/assets/readings/03_Xue_CommentOn.pdf" target="_blank">Comment on “On Discriminative vs. Generative Classifiers: A Comparison of Logistic Regression and Naive Bayes”</a>
+    - J. Xue, <a href="https://lengerichlab.github.io/pgm-spring-2025/assets/readings/03_Xue_CommentOn.pdf" target="_blank">Comment on 'On Discriminative vs. Generative Classifiers: A Comparison of Logistic Regression and Naive Bayes'</a>
 
 - date: 1/30
   lecturer: Prof. Lengerich
@@ -105,7 +105,7 @@
   title: >
     <strong>Causal Discovery</strong>
   readings:
-    - K. Zhang, <a href="https://lengerichlab.github.io/pgm-spring-2025/assets/readings/11_Zhang_Learning.pdf">Learning causality and causality-related learning: some recent progress</a>
+    - K. Zhang, <a href='https://lengerichlab.github.io/pgm-spring-2025/assets/readings/11_Zhang_Learning.pdf'>Learning causality and causality-related learning: some recent progress</a>
 
 - date: 3/6
   lecturer: Prof. Lengerich
