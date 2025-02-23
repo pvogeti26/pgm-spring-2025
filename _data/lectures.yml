@@ -82,12 +82,14 @@
   slides: "../assets/lectures/Lecture_08_LearningBNs.pdf"
   readings:
     - Koller & Friedman, Chapter 17.1-17.4
-  logistics: HW2 Out
+  logistics: HW3 Out
 
 - date: 2/25
   lecturer: Prof. Lengerich
   title: >
     <strong>Learning Undirected GMs</strong>
+  readings:
+    - Z. Ghahramani, <a href="https://lengerichlab.github.io/pgm-spring-2025/assets/readings/09_Gharamani_Learning.pdf" target="_blank">Graphical models: parameter learning</a>
 
 - date: 2/27
   lecturer: Prof. Lengerich
