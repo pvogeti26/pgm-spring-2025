@@ -69,7 +69,7 @@ There will be regular homework assignments to reinforce core concepts and comput
 ### Final Project
 
 The final project will be completed in groups of up to three students. It will include:
-- **Proposal (5%)**: Due February 21, 2025.
+- **Proposal (5%)**: Due March 7, 2025.
 - **Midway Report (5%)**: Due April 11, 2025.
 - **Presentation (5%)**: During the final week of class.
 - **Final Report (15%)**: Due May 5, 2025.
