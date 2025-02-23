@@ -95,11 +95,16 @@
   lecturer: Prof. Lengerich
   title: >
     <strong>Structure Learning</strong>
+  readings:
+    - S. Ermon, <a href="https://ermongroup.github.io/cs228-notes/learning/structure/" target="_blank">Structure learning for Bayesian networks</a>
+    - M. Scutari, <a href="https://lengerichlab.github.io/pgm-spring-2025/assets/readings/10_Scutari_WhoLearnsBetter.pdf" target="_blank">Who Learns Better Bayesian Network Structures: Accuracy and Speed of Structure Learning Algorithms</a>
 
 - date: 3/4
   lecturer: Prof. Lengerich
   title: >
     <strong>Causal Discovery</strong>
+  readings:
+    - K. Zhang, <a href="https://lengerichlab.github.io/pgm-spring-2025/assets/readings/11_Zhang_Learning.pdf">Learning causality and causality-related learning: some recent progress</a>
 
 - date: 3/6
   lecturer: Prof. Lengerich
