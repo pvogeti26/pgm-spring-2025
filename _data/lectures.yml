@@ -89,6 +89,7 @@
   lecturer: Prof. Lengerich
   title: >
     <strong>Learning Undirected GMs</strong>
+  slides: "../assets/lectures/Lecture_09_LearningUGMs.pdf"
   readings:
     - Z. Ghahramani, <a href="https://lengerichlab.github.io/pgm-spring-2025/assets/readings/09_Gharamani_Learning.pdf" target="_blank">Graphical models parameter learning</a>
 
@@ -96,9 +97,11 @@
   lecturer: Prof. Lengerich
   title: >
     <strong>Structure Learning</strong>
+  slides: "../assets/lectures/Lecture_10_StructureLearning.pdf"
   readings:
     - S. Ermon, <a href="https://ermongroup.github.io/cs228-notes/learning/structure/" target="_blank">Structure learning for Bayesian networks</a>
     - M. Scutari, <a href="https://lengerichlab.github.io/pgm-spring-2025/assets/readings/10_Scutari_WhoLearnsBetter.pdf" target="_blank">Who Learns Better Bayesian Network Structures</a>
+    - X. Zheng, <a href="https://proceedings.neurips.cc/paper/2018/hash/e347c51419ffb23ca3fd5050202f9c3d-Abstract.html" target="_blank">DAGs with NO TEARS</a>
 
 - date: 3/4
   lecturer: Prof. Lengerich
