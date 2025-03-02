@@ -110,6 +110,7 @@
     <strong>Causal Discovery</strong>
   readings:
     - K. Zhang, <a href='https://lengerichlab.github.io/pgm-spring-2025/assets/readings/11_Zhang_Learning.pdf'>Learning causality and causality-related learning</a>
+  slides: "../assets/lectures/Lecture_11_Causality.pdf"
 
 - date: 3/6
   lecturer: Prof. Lengerich
@@ -118,6 +119,7 @@
   readings:
     - MI. Jordan, Chapter 11
     - Koller & Friedman, Chapter 19.1-19.4
+  slides: "../assets/lectures/Lecture_12_EM.pdf"
   
 - date: 3/11
   lecturer: Prof. Lengerich
