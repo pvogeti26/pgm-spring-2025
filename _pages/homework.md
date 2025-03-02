@@ -8,4 +8,4 @@ title: Homework Assignments
 - HW2 ([pdf](../assets/hw/HW2.pdf), [tex](../assets/hw/HW2.tex)). Submit on Canvas or hard-copy to TA by Tuesday, Feb 11.
 - Quiz Study Guide ([pdf](../assets/hw/QuizStudyGuide.pdf))
 - HW3 ([pdf](../assets/hw/HW3.pdf), [tex](../assets/hw/HW3.tex)). Submit on Canvas or hard-copy to TA by Saturday, Mar 1.
-- HW4 ([pdf](../assets/hw/HW4.pdf), [tex](../assets/hw/HW4.pdf), [baum_welch.py](../assets/hw/baum_welch.py)). Submit on Canvas or hard-copy to TA by Saturday, Mar 8.
+- HW4 ([pdf](../assets/hw/HW4.pdf), [tex](../assets/hw/HW4.tex), [baum_welch.py](../assets/hw/baum_welch.py)). Submit on Canvas or hard-copy to TA by Saturday, Mar 8.
