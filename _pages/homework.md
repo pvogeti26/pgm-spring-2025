@@ -9,3 +9,4 @@ title: Homework Assignments
 - Quiz Study Guide ([pdf](../assets/hw/QuizStudyGuide.pdf))
 - HW3 ([pdf](../assets/hw/HW3.pdf), [tex](../assets/hw/HW3.tex)). Submit on Canvas or hard-copy to TA by Saturday, Mar 1.
 - HW4 ([pdf](../assets/hw/HW4.pdf), [tex](../assets/hw/HW4.tex), [baum_welch.py](../assets/hw/baum_welch.py)). Submit on Canvas or hard-copy to TA by Saturday, Mar 8.
+- HW5 ([pdf](../assets/hw/HW5.pdf), [tex](../assets/hw/HW5.tex), [premier_league_2013_2014.dat](../assets/hw/hw5/premier_league_2013_2014.dat)). Submit on Canvas or hard-copy to TA by Tuesday, Mar 18.

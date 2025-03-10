@@ -14,7 +14,7 @@ title: Logistics
 - **Meeting Times:** Tuesday/Thursday, 11:00–12:15
 - **Location:** 1520 Microbial Sciences Building
 - **Instructor:** Prof. Ben Lengerich, lengerich@wisc.edu
-- **TA:** Chenyang Jiang, cjiang77@wisc.edu  
+- **TA:** Chenyang Jiang, cjiang77@wisc.edu
 
 ***
 
