@@ -126,6 +126,7 @@
   lecturer: Prof. Lengerich
   title: >
     <strong>Variational Inference</strong>
+  slides: "../assets/lectures/Lecture_13_Variational.pdf"
   readings:
     - MI. Jordan, Chapter 15
   
