@@ -44,16 +44,45 @@ Teams of 2-4 students are strongly encouraged. Once your team is formed, email t
 ### **Midway Report**
 **Due:** Friday, April 11, 2025, at 11:59 PM via Canvas.
 
-- **Content**:
-  - Conference-style format (5 pages).
-  - Sections: Introduction, Related Work, Methods, Experiments, and Conclusions.
+- **Purpose**:
+This report ensures you’ve made **real progress** on your project. By now, you should have:  
+  - Implemented an initial version of your model or experiments.  
+  - Run at least some tests—even if they didn’t work.  
+  - Identified challenges and next steps.
+This is not just a plan—it must reflect **actual work done** so far.  
 
-- **Grading**:
-  - 20%: Introduction and literature review.
-  - 40%: Description and progress of methods.
-  - 20%: Experimental design and updated activity plan.
-  - 10%: Preliminary results.
-  - 10%: Writing quality.
+- **Format & Length**:
+  - **4 full pages**, excluding references. May **slightly spill onto a fifth page**, but be concise.  
+  - Use the **ICML template** (single-column format).  
+  - References must be on a separate page.  
+  - **Figures & Tables**
+    - Use **`figure`** for single-column figures, **`figure*`** for full-width figures. Figure sizes (including using **`\width=`** commands) will significantly change your report length, so size them properly.
+    - Ensure figures are **numbered, referenced, and captioned** properly.  
+  - **Required Sections** (length of each sections will vary by project focus)
+    - **Abstract (~150-200 words)**
+      - Summary of the problem, approach, progress, key challenges, and next steps.  
+    - **Introduction (½ - 1 page)**
+      - Problem statement and motivation.  
+      - Role of **probabilistic graphical models (PGMs) or probabilistic AI**.
+    - **Related Work (~½ page)**
+      - Summary of at least **four relevant papers** and how they relate to your work.  
+    - **Methods (~1 page)**
+      - Implemented work so far (not just plans).  
+      - Model structure, key assumptions, modifications.  
+      - Challenges encountered and adjustments made.  
+    - **Experiments (~1 page)**
+      - Dataset(s) and experimental setup.  
+      - Preliminary results, even if unsuccessful.  
+    - **Conclusion & Updated Plan (~½ page)**
+      - Summary of progress, challenges, and next steps.  
+      - Timeline for final report.  
+
+- **Grading**
+  - **20%: Abstract, Introduction & Related Work** (Clarity, relevance, citations)  
+  - **30%: Methods & Implementation** (Actual work done, challenges, technical clarity)  
+  - **30%: Experiments & Preliminary Results** (Progress, results, adjustments)  
+  - **10%: Next Steps & Timeline** (Realistic plan, addressing issues)
+  - **10%: Writing & Organization** (Clarity, structure, proper citations & figures)  
 
 ---
 
