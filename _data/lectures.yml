@@ -129,7 +129,7 @@
   slides: "../assets/lectures/Lecture_13_Variational.pdf"
   readings:
     - MI. Jordan, Chapter 15
-    - D. Blei, <a href="https://www.cs.columbia.edu/~blei/talks/Blei_VI_tutorial.pdf" target="_blank">Variational Inference: Foundations and Innovations</a>
+    - D. Blei, <a href="https://www.cs.columbia.edu/~blei/talks/Blei_VI_tutorial.pdf" target="_blank">Variational Inference Foundations and Innovations</a>
   
 - date: 3/13
   lecturer: Prof. Lengerich
