@@ -135,6 +135,7 @@
   lecturer: Prof. Lengerich
   title: >
     <strong>Monte Carlo</strong>
+  slides: "../assets/lectures/Lecture_14_MC.pdf"
   readings:
     - MacKay, Chapter 29
 
