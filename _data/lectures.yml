@@ -143,6 +143,7 @@
   lecturer: Prof. Lengerich
   title: >
     <strong>Review</strong>
+  slides: "../assets/lectures/Lecture_15_Review.pdf"
 
 - date: 3/20
   title: Exam
