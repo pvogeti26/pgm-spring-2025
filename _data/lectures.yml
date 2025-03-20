@@ -190,17 +190,18 @@
     - Vasvani et al., <a href="https://arxiv.org/pdf/1706.03762.pdf">Attention is all you need</a>
     - Devlin et al., <a href="https://arxiv.org/pdf/1810.04805.pdf">BERT - Pre-training of Deep Bidrectional Transformers for Language Understanding.</a>
     - Raschka, <a href="https://www.youtube.com/watch?v=-Ll8DtpNtvk&list=PLTKMiZHVd_2Licpov-ZK24j6oUnbhiPkm&index=2">Build an LLM from Scratch 3</a> (video)
+    - Sanderson, <a href="https://www.youtube.com/watch?v=KJtZARuO3JY">Visualizing transformers and attention</a> (video)
 
 - date: 4/15
   lecturer: Prof. Lengerich
   title: >
     <strong>LLMs from a Probabilistic Perspective 1: Implementing a GPT from Scratch</strong>
   readings:
-    - Raschka, <a href="https://www.youtube.com/watch?v=YSAkgEarBGE&list=PLTKMiZHVd_2Licpov-ZK24j6oUnbhiPkm">Build an LLM from Scratch 4</a>(video)
-    - Karpathy, <a href="https://www.youtube.com/watch?v=kCc8FmEb1nY">Let's Build GPT from Scratch </a>(video)
     - Radford et al., <a href="https://cdn.openai.com/research-covers/language-unsupervised/language_understanding_paper.pdf">Improving Language Understanding by Generative Pre-Training</a> (the GPT-1 paper)
     - Radford et al., <a href="https://cdn.openai.com/better-language-models/language_models_are_unsupervised_multitask_learners.pdf">Language Models are Unsupervised Multitask Learners</a> (the GPT-2 paper)
     - Brown et al., <a href="https://arxiv.org/abs/2005.14165">Language Models are Few-Shot Learners</a> (the GPT-3 paper)
+    - Raschka, <a href="https://www.youtube.com/watch?v=YSAkgEarBGE&list=PLTKMiZHVd_2Licpov-ZK24j6oUnbhiPkm">Build an LLM from Scratch 4</a> (video)
+    - Karpathy, <a href="https://www.youtube.com/watch?v=kCc8FmEb1nY">Let's Build GPT from Scratch </a>(video)
 
 - date: 4/17
   lecturer: Prof. Lengerich
