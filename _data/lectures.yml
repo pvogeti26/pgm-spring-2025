@@ -160,21 +160,35 @@
   lecturer: Prof. Lengerich
   title: >
     <strong>Deep Learning from a GM Perspective</strong>
+  readings:
+    - Goodfellow et al., <a href="http://www.deeplearningbook.org/">Deep learning book</a>, Ch. 6.2-5, 20.3-4
+    - Salakhutdinov and Hinton, <a href="https://proceedings.mlr.press/v5/salakhutdinov09a.html">Deep Boltzmann Machines</a>
+    - Ranganath et al., <a href="https://arxiv.org/abs/1411.2581">Deep exponential families</a>
 
 - date: 4/3
   lecturer: Prof. Lengerich
   title: >
     <strong>CNNs, RNNs, Autoencoders</strong>
+  readings:
+    - Pascanu, Mikolov, Bengio, <a href="http://proceedings.mlr.press/v28/pascanu13.pdf">On the difficulty of training recurrent neural networks</a>
 
 - date: 4/8
   lecturer:
   title: >
     <strong>Deep Generative Models: GAN, VAEs</strong>
+  readings:
+    - Goodfellow et al., <a href="http://www.deeplearningbook.org/">Deep learning book</a>, Ch. 20.9-10
+    - Kingma and Welling, <a href="https://arxiv.org/abs/1312.6114">Variational Autoencoders</a>
+    - Goodfellow et al., <a href="http://papers.nips.cc/paper/5423-generative-adversarial-nets">Generative Adversarial Nets</a>
+    - Arora., <a href="http://www.offconvex.org/2017/03/15/GANs/">Generative Adversarial Networks (GANs), Some Open Questions</a>
 
 - date: 4/10
   lecturer: Prof. Lengerich
   title: >
     <strong>Attention and Transformers</strong>
+  readings:
+    - Vasvani et al., <a href="https://arxiv.org/pdf/1706.03762.pdf">Attention is all you need</a>
+    - Devlin et al., <a href="https://arxiv.org/pdf/1810.04805.pdf">BERT - Pre-training of Deep Bidrectional Transformers for Language Understanding.</a>
 
 - date: 4/15
   lecturer: Prof. Lengerich
