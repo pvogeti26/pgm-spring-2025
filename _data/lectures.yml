@@ -164,7 +164,7 @@
     - Goodfellow et al., <a href="http://www.deeplearningbook.org/">Deep learning book</a>, Ch. 6.2-5, 20.3-4
     - Salakhutdinov and Hinton, <a href="https://proceedings.mlr.press/v5/salakhutdinov09a.html">Deep Boltzmann Machines</a>
     - Ranganath et al., <a href="https://arxiv.org/abs/1411.2581">Deep exponential families</a>
-  slides: "../assets/lectures/Lecture_15_Review.pdf"
+  slides: "../assets/lectures/Lecture_16_DL_Intro.pdf"
 
 - date: 4/3
   lecturer: Prof. Lengerich
