@@ -172,6 +172,7 @@
     <strong>CNNs, RNNs, Autoencoders</strong>
   readings:
     - Pascanu, Mikolov, Bengio, <a href="http://proceedings.mlr.press/v28/pascanu13.pdf">On the difficulty of training recurrent neural networks</a>
+  slides: "../assets/lectures/Lecture_17_CNN_RNN_Autoencoders.pdf"
 
 - date: 4/8
   lecturer:
