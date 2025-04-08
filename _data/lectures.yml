@@ -183,6 +183,7 @@
     - Kingma and Welling, <a href="https://arxiv.org/abs/1312.6114">Variational Autoencoders</a>
     - Goodfellow et al., <a href="http://papers.nips.cc/paper/5423-generative-adversarial-nets">Generative Adversarial Nets</a>
     - Arora., <a href="http://www.offconvex.org/2017/03/15/GANs/">Generative Adversarial Networks (GANs), Some Open Questions</a>
+  slides: "../assets/lectures/Lecture_18_DGMs.pdf"
 
 - date: 4/10
   lecturer: Prof. Lengerich
