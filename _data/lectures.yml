@@ -194,6 +194,7 @@
     - Devlin et al., <a href="https://arxiv.org/pdf/1810.04805.pdf">BERT - Pre-training of Deep Bidrectional Transformers for Language Understanding.</a>
     - Raschka, <a href="https://www.youtube.com/watch?v=-Ll8DtpNtvk&list=PLTKMiZHVd_2Licpov-ZK24j6oUnbhiPkm&index=2">Build an LLM from Scratch 3</a> (video)
     - Sanderson, <a href="https://www.youtube.com/watch?v=KJtZARuO3JY">Visualizing transformers and attention</a> (video)
+  slides: "../assets/lectures/Lecture_19_Attention.pdf"
 
 - date: 4/15
   lecturer: Prof. Lengerich
