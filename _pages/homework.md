@@ -11,3 +11,4 @@ title: Homework Assignments
 - HW4 ([pdf](../assets/hw/HW4.pdf), [tex](../assets/hw/HW4.tex), [baum_welch.py](../assets/hw/baum_welch.py)). Submit on Canvas or hard-copy to TA by Saturday, Mar 8.
 - HW5 ([pdf](../assets/hw/HW5.pdf), [tex](../assets/hw/HW5.tex), [premier_league_2013_2014.dat](../assets/hw/hw5/premier_league_2013_2014.dat)). Submit on Canvas or hard-copy to TA by Tuesday, Mar 18.
 - Exam Study Guide ([pdf](../assets/hw/ExamStudyGuide.pdf))
+- Project Peer Review ([pdf](../assets/hw/ProjectPeerReview.pdf), [text](../assets/hw/ProjectPeerReview.tex))
