@@ -216,6 +216,7 @@
     - Bi. et al, <a href="https://arxiv.org/abs/2401.02954">DeepSeek LLM Scaling Open-Source Language Models with Longtermism</a>
     - Liu et al., <a href="https://arxiv.org/abs/2405.04434">DeepSeekV2 A Strong, Economical, and Efficient Mixture-of-Experts Language Model</a>
     - Liu et al., <a href="https://arxiv.org/abs/2412.19437">DeepSeekV3 Technical Report</a>
+  slides: "../assets/lectures/Lecture_21_LLMs_Unsupervised.pdf"
 
 - date: 4/22
   lecturer: Prof. Lengerich
@@ -229,7 +230,7 @@
 - date: 4/24
   lecturer: Prof. Lengerich
   title: >
-    <strong>Context-Adaptive Graphical Models</strong>
+    <strong>New Directions in connecting LLMs to Graphical Models</strong>
   readings:
     - Lengerich et al., <a href="https://arxiv.org/abs/2310.11340">Contextualized Machine Learning</a>
 
