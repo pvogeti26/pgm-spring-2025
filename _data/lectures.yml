@@ -165,6 +165,7 @@
     - Salakhutdinov and Hinton, <a href="https://proceedings.mlr.press/v5/salakhutdinov09a.html">Deep Boltzmann Machines</a>
     - Ranganath et al., <a href="https://arxiv.org/abs/1411.2581">Deep exponential families</a>
   slides: "../assets/lectures/Lecture_16_DL_Intro.pdf"
+  notes: "../notes/lecture-16/"
 
 - date: 4/3
   lecturer: Prof. Lengerich
@@ -184,6 +185,7 @@
     - Goodfellow et al., <a href="http://papers.nips.cc/paper/5423-generative-adversarial-nets">Generative Adversarial Nets</a>
     - Arora., <a href="http://www.offconvex.org/2017/03/15/GANs/">Generative Adversarial Networks (GANs), Some Open Questions</a>
   slides: "../assets/lectures/Lecture_18_DGMs.pdf"
+  notes: "../notes/lecture-18/"
 
 - date: 4/10
   lecturer: Prof. Lengerich
@@ -195,6 +197,7 @@
     - Raschka, <a href="https://www.youtube.com/watch?v=-Ll8DtpNtvk&list=PLTKMiZHVd_2Licpov-ZK24j6oUnbhiPkm&index=2">Build an LLM from Scratch 3</a> (video)
     - Sanderson, <a href="https://www.youtube.com/watch?v=KJtZARuO3JY">Visualizing transformers and attention</a> (video)
   slides: "../assets/lectures/Lecture_19_Attention.pdf"
+  notes: "../notes/lecture-19/"
 
 - date: 4/15
   lecturer: Prof. Lengerich
